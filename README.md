@@ -14,5 +14,30 @@ Currently learning Spring Security, System Design, and Microservices.
 - 📍 Mumbai, India
 - 🎯 Looking for Software Developer opportunities
 
+## 🛠 Tech Stack
+
+Frontend:
+React.js
+HTML5
+CSS3
+Bootstrap
+JavaScript
+
+Backend:
+Java
+Spring Boot
+Spring Security
+REST APIs
+
+Database:
+MySQL
+
+Tools:
+Git
+GitHub
+Postman
+VS Code
+STS
+
 
 
