@@ -2,6 +2,7 @@
 
 ### Java Full Stack Developer from India 🇮🇳
 Java | Spring Boot | React | MySQL | Git | GitHub | Postman | Bootstrap
+
 I build responsive and scalable full-stack applications using Java, Spring Boot, React.js, and MySQL.
 
 Currently learning:
