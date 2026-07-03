@@ -1,6 +1,7 @@
 # Hi 👋, I'm Piyush Mithagari
 
 ### Java Full Stack Developer from India 🇮🇳
+Java | Spring Boot | React | MySQL | Git | GitHub | Postman | Bootstrap
 
 I enjoy building scalable and responsive web applications using Java, Spring Boot, React.js, and MySQL.
 
