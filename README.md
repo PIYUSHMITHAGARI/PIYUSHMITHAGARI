@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Piyush Mithagari
 
-<!--
-**PIYUSHMITHAGARI/PIYUSHMITHAGARI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer from India 🇮🇳
 
-Here are some ideas to get you started:
+I enjoy building scalable and responsive web applications using Java, Spring Boot, React.js, and MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning Spring Security, System Design, and Microservices.
+
+## 👨‍💻 About Me
+
+- 🎓 Bachelor of Information Technology
+- 💻 Java Full Stack Developer
+- 🚀 Building full-stack web applications
+- 📍 Mumbai, India
+- 🎯 Looking for Software Developer opportunities
+
+
+
